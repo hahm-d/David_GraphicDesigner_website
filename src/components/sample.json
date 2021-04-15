@@ -1,0 +1,83 @@
+[
+    {
+        "brand_id": "1",
+        "name": "REEBOK",
+        "logo": "1-REEBOK LOGO.jpg",
+        "digital": ["REEBOK-CONCEPT-2-HIGH-RES.gif", "REEBOK-CONCEPT-3.gif"],
+        "print": ["REEBOK CONCEPT 1.jpg", "REEBOK CONCEPT 2.jpg"],
+        "packaging": ["1 REEBOK BOX 1.jpg", "2 REEBOK BOX 2.jpg", "3 REEBOK BOX 3.jpg", "5 REEBOK HT 1.jpg", "6 REEBOK HT 2.jpg"],
+        "apparel": ["REEBOK 1.jpg","REEBOK 2.jpg","REEBOK 3.jpg","REEBOK 4.jpg","REEBOK 5.jpg","REEBOK 6.jpg","REEBOK 7.jpg", "REEBOK 8.jpg"]
+    },
+    {
+        "brand_id": "2",
+        "name": "DKNY",
+        "logo": "1-DKNY LOGO.jpg",
+        "digital": ["DKNY-CONCEPT-1.gif"],
+        "print": ["DKNY PRINT CONCENT 1.jpg"],
+        "packaging": [],
+        "apparel": ["DKNY 1.jpg", "DKNY 2.jpg", "DKNY 3.jpg", "DKNY 4.jpg", "DKNY 5.jpg", "DKNY 6.jpg"]
+    },
+    {
+        "brand_id": "3",
+        "name": "NAUTICA",
+        "logo": "1-NAUTICA LOGO.jpg",
+        "digital": ["NAUTICA-MOTION-CONEPT-1-c.gif"],
+        "print": ["NAUTICA PRINT CONCEPT 1.jpg"],
+        "packaging": ["NAUTICA-HT1.jpg", "NAUTICA-HT2.jpg", "NAUTICA-HT3.jpg"],
+        "apparel": []
+    },
+    {
+        "brand_id": "4",
+        "name": "DIESEL",
+        "logo": "1-DIESEL LOGO.jpg",
+        "digital": ["DIESEL-CONCEPT-1.gif"],
+        "print": ["DIESEL PRINT CONCENT 1.jpg"],
+        "packaging": [],
+        "apparel": []
+    },
+    {
+        "brand_id": "5",
+        "name": "STADIUM GOODS",
+        "logo": "1-STADIUM GOODS LOGO.jpg",
+        "digital": ["SG-CONCEPT-1.gif"],
+        "print": ["STADIUM GOODS PRINT CONCET 1.jpg"],
+        "packaging": [],
+        "apparel": ["STADIUM 1.jpg","STADIUM 2.jpg","STADIUM 3.jpg","STADIUM 3.jpg","STADIUM 4.jpg","STADIUM 5.jpg"]
+    },
+    {
+        "brand_id": "6",
+        "name": "32 DEGREES",
+        "logo": "1-32 DEGREES LOGO.jpg",
+        "digital": ["32-CONCEPT-1-HIGH-RES.gif"],
+        "print": [],
+        "packaging": [],
+        "apparel": []
+    },
+    {
+        "brand_id": "7",
+        "name": "FREE COUNTRY",
+        "logo": "1-FREE COUNTRY LOGO.jpg",
+        "digital": ["FREE-COUNTRY-AD-1-HIGH-RES.gif"],
+        "print": ["FREE-COUNTRY-AD-1-HIGH-RES.gif"],
+        "packaging": [],
+        "apparel": []
+    },
+    {
+        "brand_id": "8",
+        "name": "BEBE",
+        "logo": "1-BEBE LOGO.jpg",
+        "digital": [],
+        "print": [],
+        "packaging": ["BEBE BOX 1.jpg", "BEBE BOX 2.jpg", "BEBE BOX 3.jpg"],
+        "apparel": []
+    },
+    {
+        "brand_id": "9",
+        "name": "BROOKLYN DIAMOND COFFEE",
+        "logo": "1-BROOKYN DIAMOND COFFEE LOGO.jpg",
+        "digital": ["BROOKLYN DIAMOND COFFEE 1.jpg", "BROOKLYN DIAMOND COFFEE 2.jpg", "BROOKLYN DIAMOND COFFEE 3.jpg"],
+        "print": [],
+        "packaging": [],
+        "apparel": []
+    }
+]
