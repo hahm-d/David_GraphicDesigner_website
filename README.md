@@ -1,5 +1,6 @@
 # David's Professioinal Website 
-## Create by Daniel Hahm, hahm-d@github.com
+
+## Create by [Daniel Hahm](hahm-d@github.com)
 ### using React Hooks
 
 ## install:
