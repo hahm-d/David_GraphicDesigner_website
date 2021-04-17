@@ -10,6 +10,7 @@ const Services =(props) => {
         <>
         <div>My Services</div>
         <div>IN PROGRESS... adding different types of experience, also provide list of skillset/tools?</div>
+        <Footer/>
         </>
     )
 

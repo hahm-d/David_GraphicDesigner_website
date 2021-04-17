@@ -15,7 +15,6 @@ const BrandList =(prop) => {
         setPrint(prop.location.aboutProps.brand.print);
         setPack(prop.location.aboutProps.brand.packaging);
         setApparel(prop.location.aboutProps.brand.apparel);
-        console.log(digital, print, pack, apparel)
     })
 
     const helper = (arr, name, str) => {

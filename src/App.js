@@ -6,7 +6,6 @@ import Home from './components/pages/Home';
 import Services from './components/pages/Services';
 import Contact from './components/pages/Contact';
 import Brand from './components/pages/BrandList';
-import 'semantic-ui-css/semantic.min.css';
 import { Helmet } from 'react-helmet';
 import ScrollToTop from './components/ScrollToTop';
 
