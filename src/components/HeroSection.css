@@ -1,5 +1,5 @@
   .hero-container {
-    /* background: url('/images/img-home.jpg')*/
+    background-color: aqua;
     height: 100vh;
     width: 100%;
     display: flex;
