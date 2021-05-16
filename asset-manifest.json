@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/David_GraphicDesigner_website/static/css/main.d4811e48.chunk.css",
+    "main.js": "/David_GraphicDesigner_website/static/js/main.dda3c6d0.chunk.js",
+    "main.js.map": "/David_GraphicDesigner_website/static/js/main.dda3c6d0.chunk.js.map",
+    "runtime-main.js": "/David_GraphicDesigner_website/static/js/runtime-main.d771e7c9.js",
+    "runtime-main.js.map": "/David_GraphicDesigner_website/static/js/runtime-main.d771e7c9.js.map",
+    "static/js/2.d79719ad.chunk.js": "/David_GraphicDesigner_website/static/js/2.d79719ad.chunk.js",
+    "static/js/2.d79719ad.chunk.js.map": "/David_GraphicDesigner_website/static/js/2.d79719ad.chunk.js.map",
+    "index.html": "/David_GraphicDesigner_website/index.html",
+    "static/css/main.d4811e48.chunk.css.map": "/David_GraphicDesigner_website/static/css/main.d4811e48.chunk.css.map",
+    "static/js/2.d79719ad.chunk.js.LICENSE.txt": "/David_GraphicDesigner_website/static/js/2.d79719ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d771e7c9.js",
+    "static/js/2.d79719ad.chunk.js",
+    "static/css/main.d4811e48.chunk.css",
+    "static/js/main.dda3c6d0.chunk.js"
+  ]
+}
