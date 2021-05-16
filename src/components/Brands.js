@@ -34,15 +34,13 @@ function DivideRows(data){
 
 function Brands() {
 
- //  const [data, setData] = useState({});
-
   useEffect(() => {
     DivideRows(brandData);
   }) 
 
   return (
     <>
-    <h1 className='header'>Freelance Creative / Professional Graphics Designer</h1>
+    <h1 className='header'>Creative Professional Graphics Designer</h1>
     <h1 className='title'>BRANDS</h1>
     <div className='brand'>
       {DivideRows(brandData)}

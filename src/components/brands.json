@@ -79,5 +79,14 @@
         "print": [],
         "packaging": [],
         "apparel": []
+    },
+    {
+        "brand_id": "10",
+        "name": "ILLUSTRATIONS",
+        "logo": "1-ILLUSTRATIONS.jpg",
+        "digital": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+        "print": [],
+        "packaging": [],
+        "apparel": []
     }
 ]
