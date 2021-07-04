@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 function BrandItem(props) {
-
     return (
       <>
         <li className='brand__item'>

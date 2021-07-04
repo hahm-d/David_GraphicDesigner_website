@@ -18,12 +18,11 @@ const BrandList =(prop) => {
     })
 
     const helper = (arr, name, str) => {
-        //unique entry check for bk diamond coffee 
         if(name !== 'BROOKLYN DIAMOND COFFEE'){
-            name = `images/${name}/${str}/`;
+            name = name;
         }else{
-            name = `images/${name}/`;
-            str = "";
+            name = name;
+            str = "CONCEPT";
         }
 
         if(arr.length >= 1){
@@ -32,7 +31,7 @@ const BrandList =(prop) => {
                 <h2 className="brand__text">{str}</h2>
                 <ol>
                     {arr.map((item, idx) => (
-                        <img className="brand__img" src={name + item}/>
+                        <img className="brand__img" src={item}/>
                     ))}
                 </ol>
                 </div>

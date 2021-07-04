@@ -2,80 +2,80 @@
     {
         "brand_id": "1",
         "name": "REEBOK",
-        "logo": "1-REEBOK LOGO.jpg",
-        "digital": ["REEBOK-CONCEPT-2-HIGH-RES.gif", "REEBOK-CONCEPT-3.gif"],
-        "print": ["REEBOK CONCEPT 1.jpg", "REEBOK CONCEPT 2.jpg"],
-        "packaging": ["1 REEBOK BOX 1.jpg", "2 REEBOK BOX 2.jpg", "3 REEBOK BOX 3.jpg", "5 REEBOK HT 1.jpg", "6 REEBOK HT 2.jpg"],
-        "apparel": ["REEBOK 1.jpg","REEBOK 2.jpg","REEBOK 3.jpg","REEBOK 4.jpg","REEBOK 5.jpg","REEBOK 6.jpg","REEBOK 7.jpg", "REEBOK 8.jpg"]
+        "logo": "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433243/logo_10_b6wrzt.jpg",
+        "digital": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433242/reebok_digital_1_zkz9uo.gif", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433242/reebok_digital_2_qi0k8y.gif"],
+        "print": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433241/reebok_print_1_qhbqwd.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433241/reebok_print_2_ylj44h.jpg"],
+        "packaging": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433241/reebok_pack_1_j5bgyh.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433241/reebok_pack_2_wrzwjw.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433241/reebok_pack_3_b05arl.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433242/reebok_pack_4_b1mheb.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433241/reebok_pack_5_mw7ykc.jpg"],
+        "apparel": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433243/reebok_1_uz2ddj.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433242/reebok_8_ia4r3h.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433242/reebok_7_svrwoj.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433243/reebok_3_ytjs9n.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433243/reebok_4_rvxbhy.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433242/reebok_6_qhy550.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433243/reebok_2_ws07s3.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433243/reebok_5_s7twwn.jpg"]
     },
     {
         "brand_id": "2",
         "name": "DKNY",
-        "logo": "1-DKNY LOGO.jpg",
-        "digital": ["DKNY-CONCEPT-1.gif"],
-        "print": ["DKNY PRINT CONCENT 1.jpg"],
+        "logo": "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433244/logo_5_sqjsvf.jpg",
+        "digital": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433246/dkny_digital_wazagr.gif"],
+        "print": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433246/dkny_print_o0mwne.jpg"],
         "packaging": [],
-        "apparel": ["DKNY 1.jpg", "DKNY 2.jpg", "DKNY 3.jpg", "DKNY 4.jpg", "DKNY 5.jpg", "DKNY 6.jpg"]
+        "apparel": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433247/dkny_1_yihi4u.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433247/dkny_2_fsjzon.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433247/dkny_3_uiazww.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433247/dkny_4_ygdt78.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433246/dkny_5_y1v4bb.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433247/dkny_6_albid8.jpg"]
     },
     {
         "brand_id": "3",
         "name": "NAUTICA",
-        "logo": "1-NAUTICA LOGO.jpg",
-        "digital": ["NAUTICA-MOTION-CONEPT-1-c.gif"],
-        "print": ["NAUTICA PRINT CONCEPT 1.jpg"],
-        "packaging": ["NAUTICA-HT1.jpg", "NAUTICA-HT2.jpg", "NAUTICA-HT3.jpg"],
+        "logo": "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433244/logo_4_ahsog2.jpg",
+        "digital": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433250/NAUTICA-MOTION-CONEPT-1-c_wjdro4.gif"],
+        "print": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433249/NAUTICA_PRINT_CONCEPT_1_mo60gf.jpg"],
+        "packaging": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433249/NAUTICA-HT1_lundbc.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433249/NAUTICA-HT2_lgitdy.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433249/NAUTICA-HT3_cvfe8q.jpg"],
         "apparel": []
     },
     {
         "brand_id": "4",
         "name": "DIESEL",
-        "logo": "1-DIESEL LOGO.jpg",
-        "digital": ["DIESEL-CONCEPT-1.gif"],
-        "print": ["DIESEL PRINT CONCENT 1.jpg"],
+        "logo": "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433244/logo_8_xdoj0t.jpg",
+        "digital": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433247/diesel_digital_1_cmomxg.gif"],
+        "print": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433248/diesel_print_mazkth.jpg"],
         "packaging": [],
         "apparel": []
     },
     {
         "brand_id": "5",
         "name": "STADIUM GOODS",
-        "logo": "1-STADIUM GOODS LOGO.jpg",
-        "digital": ["SG-CONCEPT-1.gif"],
-        "print": ["STADIUM GOODS PRINT CONCET 1.jpg"],
+        "logo": "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433244/logo_3_flr9lp.jpg",
+        "digital": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433240/stadium_digital_zdnmmk.gif"],
+        "print": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433241/stadium_print_rrlavv.jpg"],
         "packaging": [],
-        "apparel": ["STADIUM 1.jpg","STADIUM 2.jpg","STADIUM 3.jpg","STADIUM 3.jpg","STADIUM 4.jpg","STADIUM 5.jpg"]
+        "apparel": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433241/stadium_1_g69twk.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433240/stadium_2_dnhyrj.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433241/stadium_3_iydzc0.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433241/stadium_4_okswk8.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433240/stadium_5_ixyfvg.jpg"]
     },
     {
         "brand_id": "6",
         "name": "32 DEGREES",
-        "logo": "1-32 DEGREES LOGO.jpg",
-        "digital": ["32-CONCEPT-1-HIGH-RES.gif"],
-        "print": ["32 DEGREES PRINT CONCEPT 1.jpg"],
-        "packaging": ["32 boy ht 1.jpg","32 boy ht 2.jpg", "32 boy ht 3.jpg"],
+        "logo": "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433244/logo_1_rqderf.jpg",
+        "digital": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433248/32_concept_mnxhoi.gif"],
+        "print": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433248/32_print_ssg9id.jpg"],
+        "packaging": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433248/32_boy_1_z7xtdk.jpg","https://res.cloudinary.com/dkagcuui6/image/upload/v1625433248/32_boy_2_e9xy9b.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433248/32_boy_3_kdfxf1.jpg"],
         "apparel": []
     },
     {
         "brand_id": "7",
         "name": "FREE COUNTRY",
-        "logo": "1-FREE COUNTRY LOGO.jpg",
-        "digital": ["FREE-COUNTRY-AD-1-HIGH-RES.gif"],
-        "print": ["FREE-COUNTRY-AD-1-HIGH-RES.gif"],
+        "logo": "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433244/logo_6_t5zqpy.jpg",
+        "digital": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433245/free_digital_guyxdo.gif"],
+        "print": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433246/free_print_kjp7kx.jpg"],
         "packaging": [],
         "apparel": []
     },
     {
         "brand_id": "8",
         "name": "BEBE",
-        "logo": "1-BEBE LOGO.jpg",
+        "logo": "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433244/logo_2_m3bf2k.jpg",
         "digital": [],
         "print": [],
-        "packaging": ["BEBE BOX 1.jpg", "BEBE BOX 2.jpg", "BEBE BOX 3.jpg"],
+        "packaging": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433248/bebe_package_1_whoe5z.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433248/bebe_package_2_hfrvlr.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433248/bebe_package_3_wgpl6r.jpg"],
         "apparel": []
     },
     {
         "brand_id": "9",
         "name": "BROOKLYN DIAMOND COFFEE",
-        "logo": "1-BROOKYN DIAMOND COFFEE LOGO.jpg",
-        "digital": ["BROOKLYN DIAMOND COFFEE 1.jpg", "BROOKLYN DIAMOND COFFEE 2.jpg", "BROOKLYN DIAMOND COFFEE 3.jpg"],
+        "logo": "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433244/logo_11_ghqvnb.jpg",
+        "digital": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433247/coffee_1_sti2nz.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433247/coffee_2_eti37c.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433247/coffee_3_ujs0bz.jpg"],
         "print": [],
         "packaging": [],
         "apparel": []
@@ -83,8 +83,8 @@
     {
         "brand_id": "10",
         "name": "ILLUSTRATIONS",
-        "logo": "1-ILLUSTRATIONS.jpg",
-        "digital": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+        "logo": "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433243/logo_9_rsekyt.jpg",
+        "digital": ["https://res.cloudinary.com/dkagcuui6/image/upload/v1625433245/illi_1_v21lip.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433245/illi_2_i95fss.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433245/illi_3_pu0wf1.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433244/illi_4_oxybf4.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433245/illi_5_ijf0co.jpg", "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433245/illi_6_swaiph.jpg"],
         "print": [],
         "packaging": [],
         "apparel": []

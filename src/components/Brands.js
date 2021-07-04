@@ -15,7 +15,7 @@ function DivideRows(data){
       {row.map((brand, i) => (
         <BrandItem
           key={i}
-          src={`/images/logos/${brand.logo}`}
+          src={brand.logo}
           text='----------------------------'
           path={brand.name}
           digital={brand.digital}

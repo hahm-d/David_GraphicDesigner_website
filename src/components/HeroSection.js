@@ -3,7 +3,7 @@ import '../App.css';
 import './HeroSection.css';
 import {useSpring, animated} from 'react-spring'
 
-const imagePath = "images/img-home.jpeg";
+const imagePath = "https://res.cloudinary.com/dkagcuui6/image/upload/v1625433240/img_home_f8cndm.jpg";
 
 function HeroSection() {
 
