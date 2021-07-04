@@ -18,20 +18,32 @@ const BrandList =(prop) => {
     })
 
     const helper = (arr, name, str) => {
-        if(name !== 'BROOKLYN DIAMOND COFFEE'){
+        if(name !== 'BROOKLYN DIAMOND COFFEE' && name !== 'ILLUSTRATIONS'){
             name = name;
-        }else{
+        }
+        else{
             name = name;
-            str = "CONCEPT";
+            str = "";
         }
 
-        if(arr.length >= 1){
+        if(arr.length >= 1 && str !== 'DIGITAL'){
             return(
                 <div className="brand__container">
                 <h2 className="brand__text">{str}</h2>
                 <ol>
                     {arr.map((item, idx) => (
-                        <img className="brand__img" src={item}/>
+                        <img className='brand__img' src={item}/>
+                    ))}
+                </ol>
+                </div>
+            )
+        }else if(arr.length >= 1 && str === 'DIGITAL'){
+            return(
+                <div className="brand__container">
+                <h2 className="brand__text">{str}</h2>
+                <ol>
+                    {arr.map((item, idx) => (
+                        <img className='animated-gif' src={item}/>
                     ))}
                 </ol>
                 </div>

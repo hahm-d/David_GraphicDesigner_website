@@ -23,7 +23,6 @@
   background-size: fill;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
 }
 
 .contact__header{
@@ -39,7 +38,7 @@
   margin-top: 30px;
   margin-bottom: 30px;
   padding: 4rem;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 .contact__img{
@@ -57,7 +56,6 @@
   justify-content: center;
   display: flex;
   margin-top: 30px;
-  padding: 4rem;
   font-size: 100px;
 }
 
@@ -82,6 +80,12 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.animated-gif{
+  margin: auto;
+  width: auto;
+  text-align: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -111,5 +115,50 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media only screen and (max-width: 812px) {
+  .contact__header{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+  }
+
+  .contact__text{
+    font-size: 15px;
+    padding: 1rem;
+  }
+
+  .brand__container{
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+    padding-top: .1rem;
+    font-size: 100px;
+  }
+
+  .brand__img{
+    width: 80%;
+    margin: auto;
+    display: block;
+  }
+
+  .animated-gif{
+    margin: auto;
+    width: 100%;
+    display: block;
+    text-align: center;
+    box-sizing: border-box;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .contact__text{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 3rem;
+    font-size: 22px;
   }
 }
