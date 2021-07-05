@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/David_GraphicDesigner_website/static/css/main.80ce80c0.chunk.css",
-    "main.js": "/David_GraphicDesigner_website/static/js/main.8c94c69f.chunk.js",
-    "main.js.map": "/David_GraphicDesigner_website/static/js/main.8c94c69f.chunk.js.map",
+    "main.js": "/David_GraphicDesigner_website/static/js/main.d3ac4673.chunk.js",
+    "main.js.map": "/David_GraphicDesigner_website/static/js/main.d3ac4673.chunk.js.map",
     "runtime-main.js": "/David_GraphicDesigner_website/static/js/runtime-main.378dd57d.js",
     "runtime-main.js.map": "/David_GraphicDesigner_website/static/js/runtime-main.378dd57d.js.map",
     "static/js/2.b7a959fc.chunk.js": "/David_GraphicDesigner_website/static/js/2.b7a959fc.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.378dd57d.js",
     "static/js/2.b7a959fc.chunk.js",
     "static/css/main.80ce80c0.chunk.css",
-    "static/js/main.8c94c69f.chunk.js"
+    "static/js/main.d3ac4673.chunk.js"
   ]
 }
