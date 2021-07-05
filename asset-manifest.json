@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/David_GraphicDesigner_website/static/css/main.d2e1d361.chunk.css",
-    "main.js": "/David_GraphicDesigner_website/static/js/main.aef9bc05.chunk.js",
-    "main.js.map": "/David_GraphicDesigner_website/static/js/main.aef9bc05.chunk.js.map",
+    "main.css": "/David_GraphicDesigner_website/static/css/main.c2561625.chunk.css",
+    "main.js": "/David_GraphicDesigner_website/static/js/main.081608d6.chunk.js",
+    "main.js.map": "/David_GraphicDesigner_website/static/js/main.081608d6.chunk.js.map",
     "runtime-main.js": "/David_GraphicDesigner_website/static/js/runtime-main.378dd57d.js",
     "runtime-main.js.map": "/David_GraphicDesigner_website/static/js/runtime-main.378dd57d.js.map",
-    "static/js/2.b7a959fc.chunk.js": "/David_GraphicDesigner_website/static/js/2.b7a959fc.chunk.js",
-    "static/js/2.b7a959fc.chunk.js.map": "/David_GraphicDesigner_website/static/js/2.b7a959fc.chunk.js.map",
+    "static/js/2.3368cd31.chunk.js": "/David_GraphicDesigner_website/static/js/2.3368cd31.chunk.js",
+    "static/js/2.3368cd31.chunk.js.map": "/David_GraphicDesigner_website/static/js/2.3368cd31.chunk.js.map",
     "index.html": "/David_GraphicDesigner_website/index.html",
-    "static/css/main.d2e1d361.chunk.css.map": "/David_GraphicDesigner_website/static/css/main.d2e1d361.chunk.css.map",
-    "static/js/2.b7a959fc.chunk.js.LICENSE.txt": "/David_GraphicDesigner_website/static/js/2.b7a959fc.chunk.js.LICENSE.txt"
+    "static/css/main.c2561625.chunk.css.map": "/David_GraphicDesigner_website/static/css/main.c2561625.chunk.css.map",
+    "static/js/2.3368cd31.chunk.js.LICENSE.txt": "/David_GraphicDesigner_website/static/js/2.3368cd31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.378dd57d.js",
-    "static/js/2.b7a959fc.chunk.js",
-    "static/css/main.d2e1d361.chunk.css",
-    "static/js/main.aef9bc05.chunk.js"
+    "static/js/2.3368cd31.chunk.js",
+    "static/css/main.c2561625.chunk.css",
+    "static/js/main.081608d6.chunk.js"
   ]
 }
