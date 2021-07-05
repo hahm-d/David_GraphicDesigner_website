@@ -7,6 +7,7 @@ function DivideRows(data){
   const rows = [...Array(Math.ceil(data.length / 5))];
   // group brands into rows of 5 elements [1,2,3,4,5,6,7,8,9,10] => [ [1, 2, 3, 4, 5], [6, 7, 8 ,9, 10] ]
   const brandRows = rows.map((row, idx) => data.slice(idx * 5, idx * 5 + 5))
+
   return (
     <div className='brand__container'>
     {brandRows.map((row, idx) => (

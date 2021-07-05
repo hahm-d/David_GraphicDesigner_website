@@ -5,9 +5,9 @@ function BrandItem(props) {
     return (
       <>
         <li className='brand__item'>
-          <Link className='brand__item__link' to={{pathname: '/brand', aboutProps: { brand: props}}}>
+          <Link to={{pathname: '/brand', aboutProps: { brand: props}}}>
               <img
-                className='brand__item__img'
+                className='brand__img'
                 alt='missing'
                 src={props.src}
               />
